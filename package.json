@@ -1,6 +1,6 @@
 {
-  "name": "a3r6atm",
-  "version": "1.0.0",
+  "name": "a3r6-atm",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
